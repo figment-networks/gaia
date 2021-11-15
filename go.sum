@@ -152,10 +152,12 @@ github.com/facebookgo/subset v0.0.0-20150612182917-8dac2c3c4870/go.mod h1:5tD+ne
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/felixge/httpsnoop v1.0.1 h1:lvB5Jl89CsZtGIWuTcDM1E/vkVs49/Ml7JJe07l8SPQ=
 github.com/felixge/httpsnoop v1.0.1/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
-github.com/figment-networks/extractor-tendermint v0.0.1-rc3 h1:ygKvNZeU4dgmcy5pWiXdWbfUkPMwmjypnP9f8K228SA=
-github.com/figment-networks/extractor-tendermint v0.0.1-rc3/go.mod h1:WqUd/MTZh16ofzVYqKSg7y2h+TNA3pLlsq7O49EnCGI=
-github.com/figment-networks/tendermint v0.34.9-figment-4 h1:Y13EcKRI04d1mPz8f4I9OhPnFt1FoseDQgxYCnqB4T4=
-github.com/figment-networks/tendermint v0.34.9-figment-4/go.mod h1:2mpHtE5y5nZZBCroCG5SUrDEyy3nugnB0ahmxJLijYk=
+github.com/figment-networks/extractor-tendermint v0.0.1-rc9 h1:F/I8OXjl8EoMT0PCBm7sSwfaEoG08tT/wArI26fMaH0=
+github.com/figment-networks/extractor-tendermint v0.0.1-rc9/go.mod h1:wHDKoCe7/04Gnu2y3nw+TyalwkWMf/lIF+bVOr5yWV4=
+github.com/figment-networks/tendermint v0.34.9-figment-20211115 h1:wmABzDq7/ym6VL1X0SxvBGWReOtERa2+lbsXsJmKUqM=
+github.com/figment-networks/tendermint v0.34.9-figment-20211115/go.mod h1:1zwvwYdOJZ/xrPhRrtkYxG+8bivFTekDbKHrBX912IM=
+github.com/figment-networks/tendermint-protobuf-def v0.0.0-rc6 h1:+dYMH1qKhpjB0NpGvOHx9KZMR4TO7QESBDuUbzl6IP0=
+github.com/figment-networks/tendermint-protobuf-def v0.0.0-rc6/go.mod h1:qOoaNk36CKYukSw9lO9p8EnnSQFPl3ZLq24hcu87EOc=
 github.com/fortytw2/leaktest v1.3.0 h1:u8491cBMTQ8ft8aeV+adlcytMZylmA5nnwwkRZjI8vw=
 github.com/fortytw2/leaktest v1.3.0/go.mod h1:jDsjWgpAGjm2CA7WthBh/CdZYEPF31XHquHwclZch5g=
 github.com/franela/goblin v0.0.0-20200105215937-c9ffbefa60db/go.mod h1:7dvUGVsVBjqR7JHJk0brhHOZYGmfBYOrK0ZhYMEtBr4=
@@ -206,7 +208,6 @@ github.com/golang/protobuf v1.4.3 h1:JjCZWpVbqXDqFVmTfYWEVTMIYrL/NPdPSCHPJ0T/raM
 github.com/golang/protobuf v1.4.3/go.mod h1:oDoupMAO8OvCJWAcko0GGGIgR6R6ocIYbsSw735rRwI=
 github.com/golang/snappy v0.0.0-20180518054509-2e65f85255db/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/golang/snappy v0.0.1/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
-github.com/golang/snappy v0.0.2 h1:aeE13tS0IiQgFjYdoL8qN3K1N2bXXtI6Vi51/y7BpMw=
 github.com/golang/snappy v0.0.2/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
 github.com/golang/snappy v0.0.4 h1:yAGX7huGHXlcLOEtBnF4w7FQwA26wojNCwOYAEhLjQM=
 github.com/golang/snappy v0.0.4/go.mod h1:/XxbfmMg8lxefKM7IXC3fBNl/7bRcc72aCRzEWrmP2Q=
