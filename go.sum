@@ -285,12 +285,12 @@ github.com/fatih/color v1.12.0/go.mod h1:ELkj/draVOlAH/xkhN6mQ50Qd0MPOk5AAr3maGE
 github.com/fatih/structtag v1.2.0/go.mod h1:mBJUNpUnHmRKrKlQQlmCrh5PuhftFbNv8Ys4/aAZl94=
 github.com/felixge/httpsnoop v1.0.1 h1:lvB5Jl89CsZtGIWuTcDM1E/vkVs49/Ml7JJe07l8SPQ=
 github.com/felixge/httpsnoop v1.0.1/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
-github.com/figment-networks/cosmos-sdk v0.44.2-figment h1:VTeARISUYU9ZhkP86NKH+KnxxYIDUhsALMe5BMHQ9Fs=
-github.com/figment-networks/cosmos-sdk v0.44.2-figment/go.mod h1:fwQJdw+aECatpTvQTo1tSfHEsxACdZYU80QCZUPnHr4=
+github.com/figment-networks/cosmos-sdk v0.44.2-dm h1:mUGFybLGONQercD5Frkd9UDAHjyRAdNaV1dpSBKtjNU=
+github.com/figment-networks/cosmos-sdk v0.44.2-dm/go.mod h1:fwQJdw+aECatpTvQTo1tSfHEsxACdZYU80QCZUPnHr4=
 github.com/figment-networks/extractor-tendermint v0.1.0 h1:9LK3mIHz3Vzddakmo4nsqsUPDXGY3GWXFQWte8JDzrM=
 github.com/figment-networks/extractor-tendermint v0.1.0/go.mod h1:/qHreXyK7RY+u8ambnQ/ST5f+BaKaLml7+O0KoBbMcE=
-github.com/figment-networks/tendermint v0.34.14-dm-20210121 h1:tSryH5/GnZhapQRkAbQ0fCETOFqOr5paX6BbkYpb0SA=
-github.com/figment-networks/tendermint v0.34.14-dm-20210121/go.mod h1:ACh9AJQQoeVJuFd7QD9lirkOyw5ex2tgELQ8B+5hK+E=
+github.com/figment-networks/tendermint v0.34.14-deepmind h1:UtOpFYqUSEgu/Ti2GAVWQ5AvF3QWwups+74txwbKX5Y=
+github.com/figment-networks/tendermint v0.34.14-deepmind/go.mod h1:ACh9AJQQoeVJuFd7QD9lirkOyw5ex2tgELQ8B+5hK+E=
 github.com/figment-networks/tendermint-protobuf-def v0.1.0 h1:KzuHL9+0sYeyDNMDLonz/uwZSImD753nbyMsSfp8ynQ=
 github.com/figment-networks/tendermint-protobuf-def v0.1.0/go.mod h1:qOoaNk36CKYukSw9lO9p8EnnSQFPl3ZLq24hcu87EOc=
 github.com/fjl/memsize v0.0.0-20180418122429-ca190fb6ffbc/go.mod h1:VvhXpOYNQvB+uIk2RvXzuaQtkQJzzIx6lSBe1xv7hi0=
