@@ -18,6 +18,6 @@ require (
 replace (
 	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.42.4-dm
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.9-deepmind
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.10-0.20220406135601-70e7eea733ef
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
