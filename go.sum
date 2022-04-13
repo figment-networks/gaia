@@ -282,8 +282,8 @@ github.com/figment-networks/cosmos-sdk v0.44.2-dm h1:mUGFybLGONQercD5Frkd9UDAHjy
 github.com/figment-networks/cosmos-sdk v0.44.2-dm/go.mod h1:fwQJdw+aECatpTvQTo1tSfHEsxACdZYU80QCZUPnHr4=
 github.com/figment-networks/extractor-tendermint v0.1.0 h1:9LK3mIHz3Vzddakmo4nsqsUPDXGY3GWXFQWte8JDzrM=
 github.com/figment-networks/extractor-tendermint v0.1.0/go.mod h1:/qHreXyK7RY+u8ambnQ/ST5f+BaKaLml7+O0KoBbMcE=
-github.com/figment-networks/tendermint v0.34.14-dm-v1 h1:jpYl1dcDodfFArPcYj4Wr+yNwLFLVk21kQVKCTeuntw=
-github.com/figment-networks/tendermint v0.34.14-dm-v1/go.mod h1:i0Gt5jDEtw7Ne75QG7k8FXxRQbe9fHFuHCulun6JiRg=
+github.com/figment-networks/tendermint v0.34.14-dm-v2 h1:Yg81gp+BhuizN12MQWto4HZr2i91xmtkQ+BUXJwA+40=
+github.com/figment-networks/tendermint v0.34.14-dm-v2/go.mod h1:g+RdXVMMoQIHe8K3Vy47AykJXpZmibHeaxcbUboMPtA=
 github.com/figment-networks/tendermint-protobuf-def v0.2.0 h1:uWh/sLSrjJ9lTpK6w2qrlgrpSGkEcPkDQZtJ9oMzppU=
 github.com/figment-networks/tendermint-protobuf-def v0.2.0/go.mod h1:qOoaNk36CKYukSw9lO9p8EnnSQFPl3ZLq24hcu87EOc=
 github.com/fjl/memsize v0.0.0-20180418122429-ca190fb6ffbc/go.mod h1:VvhXpOYNQvB+uIk2RvXzuaQtkQJzzIx6lSBe1xv7hi0=

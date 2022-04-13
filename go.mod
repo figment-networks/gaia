@@ -125,6 +125,6 @@ require (
 replace (
 	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.44.2-dm
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-dm-v1
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-dm-v2
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
