@@ -45,7 +45,7 @@ require (
 	github.com/enigmampc/btcutil v1.0.3-0.20200723161021-e2fb6adb2a25 // indirect
 	github.com/felixge/httpsnoop v1.0.1 // indirect
 	github.com/figment-networks/extractor-tendermint v0.1.0 // indirect
-	github.com/figment-networks/tendermint-protobuf-def v0.1.0 // indirect
+	github.com/figment-networks/tendermint-protobuf-def v0.2.0 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-logfmt/logfmt v0.5.0 // indirect
@@ -115,7 +115,7 @@ require (
 	golang.org/x/text v0.3.6 // indirect
 	google.golang.org/genproto v0.0.0-20210602131652-f16073e35f0c // indirect
 	google.golang.org/grpc v1.40.0 // indirect
-	google.golang.org/protobuf v1.27.1 // indirect
+	google.golang.org/protobuf v1.28.0 // indirect
 	gopkg.in/ini.v1 v1.63.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
@@ -125,6 +125,6 @@ require (
 replace (
 	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.44.2-dm
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-deepmind
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-dm-v1
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
