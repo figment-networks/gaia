@@ -15,10 +15,9 @@ require (
 	github.com/tendermint/tm-db v0.6.4
 )
 
-replace github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.42.10-dm
-
-replace google.golang.org/grpc => google.golang.org/grpc v1.33.2
-
-replace github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.13-deepmind
-
-replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
+replace (
+	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.42.10-dm
+	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.13-dm-v3
+	google.golang.org/grpc => google.golang.org/grpc v1.33.2
+)
