@@ -56,7 +56,7 @@ require (
 	github.com/dvsekhvalnov/jose2go v0.0.0-20200901110807-248326c1351b // indirect
 	github.com/felixge/httpsnoop v1.0.1 // indirect
 	github.com/figment-networks/extractor-tendermint v0.1.0 // indirect
-	github.com/figment-networks/tendermint-protobuf-def v0.1.0 // indirect
+	github.com/figment-networks/tendermint-protobuf-def v0.2.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-logfmt/logfmt v0.5.0 // indirect
@@ -147,6 +147,6 @@ replace (
 	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.45.1-dm
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-deepmind
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-dm-v3
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
