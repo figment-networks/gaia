@@ -45,7 +45,7 @@ require (
 	github.com/enigmampc/btcutil v1.0.3-0.20200723161021-e2fb6adb2a25 // indirect
 	github.com/felixge/httpsnoop v1.0.1 // indirect
 	github.com/figment-networks/extractor-tendermint v0.1.0 // indirect
-	github.com/figment-networks/tendermint-protobuf-def v0.1.0 // indirect
+	github.com/figment-networks/tendermint-protobuf-def v0.2.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/go-kit/kit v0.10.0 // indirect
 	github.com/go-logfmt/logfmt v0.5.0 // indirect
@@ -125,6 +125,6 @@ require (
 replace (
 	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.44.2-dm
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-deepmind
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-dm-v3
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
