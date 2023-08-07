@@ -192,7 +192,7 @@ replace (
 	github.com/gravity-devs/liquidity => github.com/gravity-devs/liquidity v1.6.0-forced-withdrawal
 
 	// Cometbft
-	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.29-fh
+	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.29-fh.0
 
 	// latest grpc doesn't work with with our modified proto compiler, so we need to enforce
 	// the following version across all dependencies.

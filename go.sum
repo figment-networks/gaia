@@ -534,8 +534,8 @@ github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/ad
 github.com/graph-gophers/graphql-go v1.3.0/go.mod h1:9CQHMSxwO4MprSdzoIEobiHpoLtHm77vfxsvsIN5Vuc=
 github.com/graphprotocol/extractor-cosmos v0.1.1 h1:y1S64E6ZCbQMa9E3BmIcRmhhFZnh45gKTcQJzxwTk+Q=
 github.com/graphprotocol/extractor-cosmos v0.1.1/go.mod h1:b2UD7Z31psHvJwEnp+C5+icoNfxpqAgZfjkNpIaIdyM=
-github.com/graphprotocol/tendermint v0.34.29-fh h1:DcdpPYAY4WWhXZWnBDnOyz+2ap0T2/U5RE/4AtWJ5lE=
-github.com/graphprotocol/tendermint v0.34.29-fh/go.mod h1:g0UkPaZkmAzi0rCL0s/Bcbpz3VH3xxJoCmY1GGmRLJ8=
+github.com/graphprotocol/tendermint v0.34.29-fh.0 h1:H8uIveRa6L060ofQ/mpA91a++A7kS3jG8ErPntSrLMU=
+github.com/graphprotocol/tendermint v0.34.29-fh.0/go.mod h1:6u8gvpbcHyBTUVS5+N0MPeBjGF0mBbk4hEU2Qr+GEkI=
 github.com/gravity-devs/liquidity v1.6.0-forced-withdrawal h1:XQAMyrO6tovGLwpclVa4Z4DI02u2jW+uCJyBFeRqtxY=
 github.com/gravity-devs/liquidity v1.6.0-forced-withdrawal/go.mod h1:0oxsaI8Ukf40W1xDSQ+LKbbXEcS17UkU4RbJ2fPMpl8=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
