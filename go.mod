@@ -198,7 +198,7 @@ replace (
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 
 	// Comet
-	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.29-fh
+	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.29-fh-utf8-fix
 
 	// latest grpc doesn't work with with our modified proto compiler, so we need to enforce
 	// the following version across all dependencies.
